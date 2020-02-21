@@ -6,6 +6,5 @@ target 'CollectionAddImage' do
   use_frameworks!
 
   # Pods for CollectionAddImage
-  pod ""
 
 end
